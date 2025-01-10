@@ -27,6 +27,6 @@ The sinking of the Titanic is one of the key sad tragedies in history and it too
 <img src="https://github.com/khwaishagarwal/TitanicSurvivalPrediction/blob/main/Results/LogRegConfusionMatrix.png" width="40%" height="40%">
 
 
-## **4. Confusion Matrix for Naive Bayes Classification**
+## **6. Confusion Matrix for Naive Bayes Classification**
 <img src="https://github.com/khwaishagarwal/TitanicSurvivalPrediction/blob/main/Results/NaiveBayesConfusionMatrix.png" width="80%" height="80%">
 
